@@ -1,3 +1,12 @@
+<img width="378" height="505" alt="17" src="https://github.com/user-attachments/assets/845b8a93-5de4-4cff-9ca1-5b75ce8c0582" />
+<img width="378" height="504" alt="16" src="https://github.com/user-attachments/assets/3023ef71-2163-4693-a6d8-9ede7407081a" />
+<img width="373" height="506" alt="15" src="https://github.com/user-attachments/assets/f9f8c958-4bb1-4925-b1f0-f23c0518276a" />
+<img width="378" height="508" alt="14" src="https://github.com/user-attachments/assets/d10504ef-0aaf-4acf-acb8-ef9619d55157" />
+<img width="376" height="508" alt="13" src="https://github.com/user-attachments/assets/9fd5a261-6a03-43e8-8aff-992e35f65d80" />
+
+
+
+
 # PIXEL
 
 PIXEL, Linux masaüstü için hazırlanmış retro 8-bit görünümlü bir masaüstü widget / pixel companion uygulamasıdır.
@@ -190,6 +199,7 @@ Planlanan geliştirmeler:
 - Daha gelişmiş müzik kontrolleri
 
 ## Lisans
+
 
 Bu proje MIT Lisansı ile lisanslanmıştır.
 
