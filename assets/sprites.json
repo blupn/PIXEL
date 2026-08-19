@@ -1,0 +1,36 @@
+{
+  "cell_width": 192,
+  "cell_height": 288,
+  "animations": {
+    "idle": {
+      "row": 0,
+      "frames": 4,
+      "fps": 4
+    },
+    "walk": {
+      "row": 1,
+      "frames": 8,
+      "fps": 8
+    },
+    "sleep": {
+      "row": 2,
+      "frames": 6,
+      "fps": 4
+    },
+    "dance": {
+      "row": 3,
+      "frames": 8,
+      "fps": 8
+    },
+    "notify": {
+      "row": 4,
+      "frames": 6,
+      "fps": 8
+    },
+    "wave": {
+      "row": 5,
+      "frames": 6,
+      "fps": 6
+    }
+  }
+}
